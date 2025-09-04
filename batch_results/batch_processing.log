@@ -1,0 +1,56 @@
+2025-09-03 10:55:43,709 - math_solver.batch - INFO - Starting new batch processing: full_batch
+2025-09-03 10:55:54,778 - math_solver.batch - INFO - SUCCESS [full_batch] Item 1/5: tokens=1650, time=11.07s, retries=0
+2025-09-03 10:56:07,102 - math_solver.batch - INFO - SUCCESS [full_batch] Item 2/5: tokens=1877, time=11.82s, retries=0
+2025-09-03 10:56:17,853 - math_solver.batch - INFO - SUCCESS [full_batch] Item 3/5: tokens=1753, time=10.25s, retries=0
+2025-09-03 10:56:29,182 - math_solver.batch - INFO - SUCCESS [full_batch] Item 4/5: tokens=2066, time=10.82s, retries=0
+2025-09-03 10:57:39,260 - math_solver.batch - INFO - SUCCESS [full_batch] Item 5/5: tokens=2102, time=69.57s, retries=0
+2025-09-03 10:57:39,263 - math_solver.batch - INFO - Checkpoint saved: 5/5 processed
+2025-09-03 10:57:39,771 - math_solver.batch - INFO - Checkpoint saved: 5/5 processed
+2025-09-03 10:57:39,772 - math_solver.batch - INFO - BATCH PROGRESS [full_batch]: 5/5 processed (5 success, 0 failed) | Tokens: 9,448 | Avg time: 22.70s | Today total tokens: 9,448
+2025-09-03 10:57:39,789 - math_solver.batch - INFO - Final results saved to /Users/raja/Desktop/maths/maths-solver-4.1/batch_results/batch_results_full_batch.json and /Users/raja/Desktop/maths/maths-solver-4.1/batch_results/batch_results_full_batch.csv
+2025-09-03 10:57:39,789 - math_solver.batch - INFO - BATCH_COMPLETE [full_batch]: {'batch_id': 'full_batch', 'total_processed': 5, 'successful': 5, 'failed': 0, 'success_rate': '100.0%', 'total_time': '116.08s', 'avg_time_per_item': '23.22s', 'total_tokens': '9,448', 'results_file': '/Users/raja/Desktop/maths/maths-solver-4.1/batch_results/batch_results_full_batch.json'}
+2025-09-03 11:01:43,164 - math_solver.batch - INFO - Starting new batch processing: failed_df
+2025-09-03 11:01:51,481 - math_solver.batch - INFO - SUCCESS [failed_df] Item 1/32: tokens=1868, time=8.31s, retries=0
+2025-09-03 11:02:00,276 - math_solver.batch - INFO - SUCCESS [failed_df] Item 2/32: tokens=2003, time=8.29s, retries=0
+2025-09-03 11:02:10,323 - math_solver.batch - INFO - SUCCESS [failed_df] Item 3/32: tokens=2207, time=9.54s, retries=0
+2025-09-03 11:02:17,538 - math_solver.batch - INFO - SUCCESS [failed_df] Item 4/32: tokens=1897, time=6.71s, retries=0
+2025-09-03 11:02:24,836 - math_solver.batch - INFO - SUCCESS [failed_df] Item 5/32: tokens=1882, time=6.79s, retries=0
+2025-09-03 11:02:24,839 - math_solver.batch - INFO - Checkpoint saved: 5/32 processed
+2025-09-03 11:02:45,236 - math_solver.batch - INFO - SUCCESS [failed_df] Item 6/32: tokens=4356, time=19.89s, retries=0
+2025-09-03 11:02:55,161 - math_solver.batch - INFO - SUCCESS [failed_df] Item 7/32: tokens=2068, time=9.42s, retries=0
+2025-09-03 11:03:06,134 - math_solver.batch - INFO - SUCCESS [failed_df] Item 8/32: tokens=2224, time=10.47s, retries=0
+2025-09-03 11:03:16,151 - math_solver.batch - INFO - SUCCESS [failed_df] Item 9/32: tokens=2308, time=9.51s, retries=0
+2025-09-03 11:03:26,907 - math_solver.batch - INFO - SUCCESS [failed_df] Item 10/32: tokens=2528, time=10.25s, retries=0
+2025-09-03 11:03:26,910 - math_solver.batch - INFO - Checkpoint saved: 10/32 processed
+2025-09-03 11:03:57,038 - math_solver.batch - INFO - SUCCESS [failed_df] Item 11/32: tokens=2170, time=29.62s, retries=0
+2025-09-03 11:04:07,599 - math_solver.batch - INFO - SUCCESS [failed_df] Item 12/32: tokens=2258, time=10.05s, retries=0
+2025-09-03 11:04:19,952 - math_solver.batch - INFO - SUCCESS [failed_df] Item 13/32: tokens=2031, time=11.85s, retries=0
+2025-09-03 11:04:32,618 - math_solver.batch - INFO - SUCCESS [failed_df] Item 14/32: tokens=2072, time=12.16s, retries=0
+2025-09-03 11:04:50,361 - math_solver.batch - INFO - SUCCESS [failed_df] Item 15/32: tokens=5452, time=17.24s, retries=0
+2025-09-03 11:04:50,367 - math_solver.batch - INFO - Checkpoint saved: 15/32 processed
+2025-09-03 11:05:10,864 - math_solver.batch - INFO - SUCCESS [failed_df] Item 16/32: tokens=2427, time=19.99s, retries=0
+2025-09-03 11:05:21,181 - math_solver.batch - INFO - SUCCESS [failed_df] Item 17/32: tokens=2370, time=9.81s, retries=0
+2025-09-03 11:05:28,864 - math_solver.batch - INFO - SUCCESS [failed_df] Item 18/32: tokens=2087, time=7.18s, retries=0
+2025-09-03 11:05:41,150 - math_solver.batch - INFO - SUCCESS [failed_df] Item 19/32: tokens=2447, time=11.78s, retries=0
+2025-09-03 11:05:54,973 - math_solver.batch - INFO - SUCCESS [failed_df] Item 20/32: tokens=2316, time=13.32s, retries=0
+2025-09-03 11:05:54,980 - math_solver.batch - INFO - Checkpoint saved: 20/32 processed
+2025-09-03 11:06:10,229 - math_solver.batch - INFO - SUCCESS [failed_df] Item 21/32: tokens=2635, time=14.74s, retries=0
+2025-09-03 11:06:29,699 - math_solver.batch - INFO - SUCCESS [failed_df] Item 22/32: tokens=2785, time=18.97s, retries=0
+2025-09-03 11:06:49,248 - math_solver.batch - INFO - SUCCESS [failed_df] Item 23/32: tokens=2273, time=19.04s, retries=0
+2025-09-03 11:06:59,278 - math_solver.batch - INFO - SUCCESS [failed_df] Item 24/32: tokens=2308, time=9.53s, retries=0
+2025-09-03 11:07:12,077 - math_solver.batch - INFO - SUCCESS [failed_df] Item 25/32: tokens=2187, time=12.29s, retries=0
+2025-09-03 11:07:12,088 - math_solver.batch - INFO - Checkpoint saved: 25/32 processed
+2025-09-03 11:07:12,090 - math_solver.batch - INFO - BATCH PROGRESS [failed_df]: 25/32 processed (25 success, 0 failed) | Tokens: 61,159 | Avg time: 12.67s | Today total tokens: 70,607
+2025-09-03 11:07:12,091 - math_solver.batch - INFO - USAGE_STATS [failed_df]: Today total conversations: 30, total tokens: 70,607
+2025-09-03 11:07:30,004 - math_solver.batch - INFO - SUCCESS [failed_df] Item 26/32: tokens=2990, time=17.41s, retries=0
+2025-09-03 11:07:51,297 - math_solver.batch - INFO - SUCCESS [failed_df] Item 27/32: tokens=2538, time=20.79s, retries=0
+2025-09-03 11:08:09,317 - math_solver.batch - INFO - SUCCESS [failed_df] Item 28/32: tokens=2669, time=17.52s, retries=0
+2025-09-03 11:08:29,913 - math_solver.batch - INFO - SUCCESS [failed_df] Item 29/32: tokens=2922, time=20.09s, retries=0
+2025-09-03 11:08:45,702 - math_solver.batch - INFO - SUCCESS [failed_df] Item 30/32: tokens=2135, time=15.28s, retries=0
+2025-09-03 11:08:45,712 - math_solver.batch - INFO - Checkpoint saved: 30/32 processed
+2025-09-03 11:09:24,925 - math_solver.batch - INFO - SUCCESS [failed_df] Item 31/32: tokens=3152, time=38.71s, retries=0
+2025-09-03 11:09:51,676 - math_solver.batch - INFO - SUCCESS [failed_df] Item 32/32: tokens=3959, time=26.24s, retries=0
+2025-09-03 11:09:52,192 - math_solver.batch - INFO - Checkpoint saved: 32/32 processed
+2025-09-03 11:09:52,195 - math_solver.batch - INFO - BATCH PROGRESS [failed_df]: 32/32 processed (32 success, 0 failed) | Tokens: 81,524 | Avg time: 14.77s | Today total tokens: 90,972
+2025-09-03 11:09:52,227 - math_solver.batch - INFO - Final results saved to /Users/raja/Desktop/maths/maths-solver-4.1/batch_results/batch_results_failed_df.json and /Users/raja/Desktop/maths/maths-solver-4.1/batch_results/batch_results_failed_df.csv
+2025-09-03 11:09:52,227 - math_solver.batch - INFO - BATCH_COMPLETE [failed_df]: {'batch_id': 'failed_df', 'total_processed': 32, 'successful': 32, 'failed': 0, 'success_rate': '100.0%', 'total_time': '489.06s', 'avg_time_per_item': '15.28s', 'total_tokens': '81,524', 'results_file': '/Users/raja/Desktop/maths/maths-solver-4.1/batch_results/batch_results_failed_df.json'}

@@ -1,0 +1,6 @@
+"""Python module entry point for the Math Solver package."""
+
+from .cli import main
+
+if __name__ == '__main__':
+    exit(main())

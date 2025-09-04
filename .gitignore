@@ -1,0 +1,4 @@
+batch_results/.*
+__pycache__/
+res/
+.openai_api_key

@@ -1,0 +1,33 @@
+# Math Solver - Production Dependencies
+# Core dependencies for the mathematics problem solver
+
+# OpenAI API client
+openai>=1.0.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Data processing and analysis (for batch processing)
+pandas>=1.5.0
+
+# Configuration and data handling
+pydantic>=2.0.0
+
+# Development and testing dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-mock>=3.10.0
+
+# Code quality
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+
+# Documentation
+sphinx>=6.0.0
+sphinx-rtd-theme>=1.2.0
+
+# Packaging
+setuptools>=65.0.0
+wheel>=0.40.0
+twine>=4.0.0
