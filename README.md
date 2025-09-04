@@ -1,3 +1,22 @@
+# maths-solver-4.1
+
+Basic usage and project details.
+
+Running the Streamlit UI
+------------------------
+
+To run the neat Streamlit front-end that interacts with the solver:
+
+1. Install Python dependencies (preferably in a venv):
+
+  pip install -r requirements.txt
+
+2. Launch the Streamlit app from the repository root:
+
+  streamlit run streamlit_app.py
+
+3. The UI lets you paste a question, upload images or provide image paths, and view a structured solution and usage statistics.
+
 # Math Solver
 
 A production-level mathematics problem solver using OpenAI's API with comprehensive logging, batch processing, input validation, and modular design.
