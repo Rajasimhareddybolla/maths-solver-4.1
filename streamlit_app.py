@@ -1,9 +1,12 @@
 import streamlit as st
 from pathlib import Path
 import sys
-
+import os
+import dotenv
 # Ensure src is importable
 sys.path.append('src')
+
+dotenv.load_dotenv()
 
 from src.math_solver.app import create_app
 

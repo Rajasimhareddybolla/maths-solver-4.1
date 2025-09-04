@@ -3,3 +3,4 @@ __pycache__/
 res/
 *.openai_api_key
 logs/
+.openai_api_key
