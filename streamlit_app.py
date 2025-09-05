@@ -9,7 +9,7 @@ sys.path.append('src')
 dotenv.load_dotenv()
 
 with open('.openai_api_key','w') as file:
-    file.write(os.environ["OPENAI_API_KEY"])
+    file.write(os.getenv("OPENAI_API_KEY"))
 
 
 from src.math_solver.app import create_app
