@@ -34,3 +34,6 @@ twine>=4.0.0
 
 # Web UI
 streamlit>=1.28.0
+
+
+python-dotenv
